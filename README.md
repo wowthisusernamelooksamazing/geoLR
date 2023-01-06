@@ -12,8 +12,8 @@ geoLR is a package and framework to perform fast geometric low-rank approximatio
 geoLR is in active development (currently 1.0.0) and its interface may change.
 
 ## Files
-main.m: Driver.    
-geoLR: Geometric Low-Rank Compression for Kernel Matrices with I/O below.
+**main.m**: Driver.    
+**geoLR.m**: Geometric Low-Rank Compression for Kernel Matrices with I/O below.
 
 * Input: data sets 'X' and 'Y' (can be identical), low-rank approximation level 'pk', kernel function handle 'ff'.
 * Output: low-rank factors U,V for approximating A with U*V.
