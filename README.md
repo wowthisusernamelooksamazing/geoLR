@@ -16,8 +16,3 @@ main.m
 
 ## Reference
  -  [Data-Driven Linear Complexity Low-Rank Approximation of General Kernel Matrices: A Geometric Approach](https://arxiv.org/abs/2212.12674) Difeng Cai, Edmond Chow, Yuanzhe Xi
-
-
-## Versioning
-geoLR attempts to follow [semantic versioning](https://www.semver.org). Do note, that in it's current (1.0.0) development, such versioning may not be strictly
-followed.
