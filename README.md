@@ -6,7 +6,7 @@ geoLR is a package and framework to perform fast geometric low-rank approximatio
 * geoLR is generic, allowing user-defined kernel functions, both uniform and non-uniform data. 
 * geoLR works for datasets in arbitrary dimensions.
 * geoLR does not require forming the kernel matrix and does not assume the matrix to be symmetric or square. The algorithm computes low-rank factors given data and kernel function only.
-* The total complexity of geoLR is $O(dr^2(M+N))$ for computing a rank-$r$ approximaiton to an $M$-by-$N$ kernel matrix.
+* The total complexity of geoLR is $O(dr^2(M+N))$ for computing a rank-$r$ approximaiton to an M-by-N kernel matrix.
 
 ## Use
 geoLR is in active development (currently 1.0.0) and its interface may change.
